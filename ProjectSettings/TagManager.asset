@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DayInputField
+  - MonthInputField
+  - YearInputField
+  - GoToDate
+  - AddDate
+  - CalendarIcon
+  - DateSystem
+  - ContentManager
+  - SaveAndLoad
+  - Name
+  - Age
+  - Strength
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DateLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3834101435
+    locked: 0
+  - name: Foreground
+    uniqueID: 2518558221
+    locked: 0
+  - name: Foreground+1
+    uniqueID: 1179564701
+    locked: 0
+  - name: Foreground+2
+    uniqueID: 923702395
+    locked: 0
